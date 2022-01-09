@@ -1,0 +1,1 @@
+start java -cp terminal-chat.jar com.github.terminal.chat.Client
